@@ -126,6 +126,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ## 👩‍💻 Author
-Anyam Anitha
+Anyam Anitha @Anyam0510
 
 ```
